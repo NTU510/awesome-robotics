@@ -92,7 +92,7 @@ Free Software tools for robot and sensor applications
 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
 
-[**ViSP**](https://http://visp.inria.fr/)
+[**ViSP**](http://visp.inria.fr/)
 Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
 
 ### Papers ###
